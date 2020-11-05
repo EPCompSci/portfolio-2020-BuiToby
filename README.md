@@ -8,3 +8,4 @@ My Name is Toby Bui, currently i am a junior at Eden Prairie High School. I find
 ## Projects 
 [Pinball Extravaganza](https://github.com/BuiToby/Pinball-Extravanganza): This was the end of the year project that i created, it was a pinball game that uses a lot of sprites, clocks, and a lot of math invloved with the "physics" of the ball. This is the aftermath of what I learned from APCSP using MIT App Inventor
 
+[Planetary Escape](https://github.com/BuiToby/Planetary-Escape) The was the first real and finished app that i created during APCSP, I created this with one of my classmates, and we created an addictive never ending game (unless you lose) with the main goal is to dodge oncoming obstacles and to see how long you can survive. This was my one of my apps when i started to learn how to create more complex codes in MIT App Inventor.
