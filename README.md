@@ -13,3 +13,8 @@ My Name is Toby Bui, currently i am a junior at Eden Prairie High School. I find
 [ToDoToday](https://github.com/BuiToby/ToDoToday) This app was created to help the procrastinators with their struggling problem of procrasinating by creating a list that will tell you when and what you tasks you have to finish today. This was my first app the i created using Xcode and i created this because i wanted to learn the basics of Xcode and to also help with my problem of procrastinating. 🙂
 
 [Super-Bird-Fighter-Ultra](https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra): This is the app that my group and I created that combines SwiftUI, SpriteKit, and animations. Our group has learned about creating animations and installing them into programming.
+
+
+[Elmos Revenge](https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra): This was a learning experince for my group and I to follow along with a tutorial and create an app for toddlers.
+
+
