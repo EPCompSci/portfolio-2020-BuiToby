@@ -16,6 +16,7 @@ My Name is Toby Bui, currently i am a junior at Eden Prairie High School. I find
 
 
 [Elmos Revenge](https://github.com/BuiToby/ElmosProject/blob/main/README.md): This was a learning experince for my group and I to follow along with a tutorial and create an app for toddlers.
+
 ![picture](Simulator Screen Shot - iPhone 11 Pro Max - 2021-01-06 at 22.18.05.png)
 
 
