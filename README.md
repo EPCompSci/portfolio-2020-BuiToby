@@ -15,6 +15,6 @@ My Name is Toby Bui, currently i am a junior at Eden Prairie High School. I find
 [Super-Bird-Fighter-Ultra](https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra): This is the app that my group and I created that combines SwiftUI, SpriteKit, and animations. Our group has learned about creating animations and installing them into programming.
 
 
-[Elmos Revenge](https://github.com/AnthonyKuismi/Super-Bird-Fighter-Ultra): This was a learning experince for my group and I to follow along with a tutorial and create an app for toddlers.
+[Elmos Revenge](https://github.com/BuiToby/ElmosProject/blob/main/README.md): This was a learning experince for my group and I to follow along with a tutorial and create an app for toddlers.
 
 
